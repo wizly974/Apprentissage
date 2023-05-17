@@ -1,0 +1,15 @@
+/home/wesley/Desktop/projet/Demo StringBuilder/bin/Debug/net7.0/Demo StringBuilder
+/home/wesley/Desktop/projet/Demo StringBuilder/bin/Debug/net7.0/Demo StringBuilder.deps.json
+/home/wesley/Desktop/projet/Demo StringBuilder/bin/Debug/net7.0/Demo StringBuilder.runtimeconfig.json
+/home/wesley/Desktop/projet/Demo StringBuilder/bin/Debug/net7.0/Demo StringBuilder.dll
+/home/wesley/Desktop/projet/Demo StringBuilder/bin/Debug/net7.0/Demo StringBuilder.pdb
+/home/wesley/Desktop/projet/Demo StringBuilder/obj/Debug/net7.0/Demo StringBuilder.csproj.AssemblyReference.cache
+/home/wesley/Desktop/projet/Demo StringBuilder/obj/Debug/net7.0/Demo StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+/home/wesley/Desktop/projet/Demo StringBuilder/obj/Debug/net7.0/Demo StringBuilder.AssemblyInfoInputs.cache
+/home/wesley/Desktop/projet/Demo StringBuilder/obj/Debug/net7.0/Demo StringBuilder.AssemblyInfo.cs
+/home/wesley/Desktop/projet/Demo StringBuilder/obj/Debug/net7.0/Demo StringBuilder.csproj.CoreCompileInputs.cache
+/home/wesley/Desktop/projet/Demo StringBuilder/obj/Debug/net7.0/Demo StringBuilder.dll
+/home/wesley/Desktop/projet/Demo StringBuilder/obj/Debug/net7.0/refint/Demo StringBuilder.dll
+/home/wesley/Desktop/projet/Demo StringBuilder/obj/Debug/net7.0/Demo StringBuilder.pdb
+/home/wesley/Desktop/projet/Demo StringBuilder/obj/Debug/net7.0/Demo StringBuilder.genruntimeconfig.cache
+/home/wesley/Desktop/projet/Demo StringBuilder/obj/Debug/net7.0/ref/Demo StringBuilder.dll

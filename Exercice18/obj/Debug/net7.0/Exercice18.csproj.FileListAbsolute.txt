@@ -1,0 +1,15 @@
+/home/wesley/Desktop/project/Exercice18/bin/Debug/net7.0/Exercice18
+/home/wesley/Desktop/project/Exercice18/bin/Debug/net7.0/Exercice18.deps.json
+/home/wesley/Desktop/project/Exercice18/bin/Debug/net7.0/Exercice18.runtimeconfig.json
+/home/wesley/Desktop/project/Exercice18/bin/Debug/net7.0/Exercice18.dll
+/home/wesley/Desktop/project/Exercice18/bin/Debug/net7.0/Exercice18.pdb
+/home/wesley/Desktop/project/Exercice18/obj/Debug/net7.0/Exercice18.csproj.AssemblyReference.cache
+/home/wesley/Desktop/project/Exercice18/obj/Debug/net7.0/Exercice18.GeneratedMSBuildEditorConfig.editorconfig
+/home/wesley/Desktop/project/Exercice18/obj/Debug/net7.0/Exercice18.AssemblyInfoInputs.cache
+/home/wesley/Desktop/project/Exercice18/obj/Debug/net7.0/Exercice18.AssemblyInfo.cs
+/home/wesley/Desktop/project/Exercice18/obj/Debug/net7.0/Exercice18.csproj.CoreCompileInputs.cache
+/home/wesley/Desktop/project/Exercice18/obj/Debug/net7.0/Exercice18.dll
+/home/wesley/Desktop/project/Exercice18/obj/Debug/net7.0/refint/Exercice18.dll
+/home/wesley/Desktop/project/Exercice18/obj/Debug/net7.0/Exercice18.pdb
+/home/wesley/Desktop/project/Exercice18/obj/Debug/net7.0/Exercice18.genruntimeconfig.cache
+/home/wesley/Desktop/project/Exercice18/obj/Debug/net7.0/ref/Exercice18.dll

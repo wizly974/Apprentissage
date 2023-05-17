@@ -1,0 +1,15 @@
+/home/wesley/Desktop/projects/Demo Path/bin/Debug/net7.0/Demo Path
+/home/wesley/Desktop/projects/Demo Path/bin/Debug/net7.0/Demo Path.deps.json
+/home/wesley/Desktop/projects/Demo Path/bin/Debug/net7.0/Demo Path.runtimeconfig.json
+/home/wesley/Desktop/projects/Demo Path/bin/Debug/net7.0/Demo Path.dll
+/home/wesley/Desktop/projects/Demo Path/bin/Debug/net7.0/Demo Path.pdb
+/home/wesley/Desktop/projects/Demo Path/obj/Debug/net7.0/Demo Path.csproj.AssemblyReference.cache
+/home/wesley/Desktop/projects/Demo Path/obj/Debug/net7.0/Demo Path.GeneratedMSBuildEditorConfig.editorconfig
+/home/wesley/Desktop/projects/Demo Path/obj/Debug/net7.0/Demo Path.AssemblyInfoInputs.cache
+/home/wesley/Desktop/projects/Demo Path/obj/Debug/net7.0/Demo Path.AssemblyInfo.cs
+/home/wesley/Desktop/projects/Demo Path/obj/Debug/net7.0/Demo Path.csproj.CoreCompileInputs.cache
+/home/wesley/Desktop/projects/Demo Path/obj/Debug/net7.0/Demo Path.dll
+/home/wesley/Desktop/projects/Demo Path/obj/Debug/net7.0/refint/Demo Path.dll
+/home/wesley/Desktop/projects/Demo Path/obj/Debug/net7.0/Demo Path.pdb
+/home/wesley/Desktop/projects/Demo Path/obj/Debug/net7.0/Demo Path.genruntimeconfig.cache
+/home/wesley/Desktop/projects/Demo Path/obj/Debug/net7.0/ref/Demo Path.dll

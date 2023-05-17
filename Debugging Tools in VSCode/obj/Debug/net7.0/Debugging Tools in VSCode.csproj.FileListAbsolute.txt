@@ -1,0 +1,15 @@
+/home/wesley/Desktop/projects/Debugging Tools in VSCode/bin/Debug/net7.0/Debugging Tools in VSCode
+/home/wesley/Desktop/projects/Debugging Tools in VSCode/bin/Debug/net7.0/Debugging Tools in VSCode.deps.json
+/home/wesley/Desktop/projects/Debugging Tools in VSCode/bin/Debug/net7.0/Debugging Tools in VSCode.runtimeconfig.json
+/home/wesley/Desktop/projects/Debugging Tools in VSCode/bin/Debug/net7.0/Debugging Tools in VSCode.dll
+/home/wesley/Desktop/projects/Debugging Tools in VSCode/bin/Debug/net7.0/Debugging Tools in VSCode.pdb
+/home/wesley/Desktop/projects/Debugging Tools in VSCode/obj/Debug/net7.0/Debugging Tools in VSCode.csproj.AssemblyReference.cache
+/home/wesley/Desktop/projects/Debugging Tools in VSCode/obj/Debug/net7.0/Debugging Tools in VSCode.GeneratedMSBuildEditorConfig.editorconfig
+/home/wesley/Desktop/projects/Debugging Tools in VSCode/obj/Debug/net7.0/Debugging Tools in VSCode.AssemblyInfoInputs.cache
+/home/wesley/Desktop/projects/Debugging Tools in VSCode/obj/Debug/net7.0/Debugging Tools in VSCode.AssemblyInfo.cs
+/home/wesley/Desktop/projects/Debugging Tools in VSCode/obj/Debug/net7.0/Debugging Tools in VSCode.csproj.CoreCompileInputs.cache
+/home/wesley/Desktop/projects/Debugging Tools in VSCode/obj/Debug/net7.0/Debugging Tools in VSCode.dll
+/home/wesley/Desktop/projects/Debugging Tools in VSCode/obj/Debug/net7.0/refint/Debugging Tools in VSCode.dll
+/home/wesley/Desktop/projects/Debugging Tools in VSCode/obj/Debug/net7.0/Debugging Tools in VSCode.pdb
+/home/wesley/Desktop/projects/Debugging Tools in VSCode/obj/Debug/net7.0/Debugging Tools in VSCode.genruntimeconfig.cache
+/home/wesley/Desktop/projects/Debugging Tools in VSCode/obj/Debug/net7.0/ref/Debugging Tools in VSCode.dll

@@ -1,0 +1,15 @@
+/home/wesley/Desktop/projet/projet string/bin/Debug/net7.0/projet string
+/home/wesley/Desktop/projet/projet string/bin/Debug/net7.0/projet string.deps.json
+/home/wesley/Desktop/projet/projet string/bin/Debug/net7.0/projet string.runtimeconfig.json
+/home/wesley/Desktop/projet/projet string/bin/Debug/net7.0/projet string.dll
+/home/wesley/Desktop/projet/projet string/bin/Debug/net7.0/projet string.pdb
+/home/wesley/Desktop/projet/projet string/obj/Debug/net7.0/projet string.csproj.AssemblyReference.cache
+/home/wesley/Desktop/projet/projet string/obj/Debug/net7.0/projet string.GeneratedMSBuildEditorConfig.editorconfig
+/home/wesley/Desktop/projet/projet string/obj/Debug/net7.0/projet string.AssemblyInfoInputs.cache
+/home/wesley/Desktop/projet/projet string/obj/Debug/net7.0/projet string.AssemblyInfo.cs
+/home/wesley/Desktop/projet/projet string/obj/Debug/net7.0/projet string.csproj.CoreCompileInputs.cache
+/home/wesley/Desktop/projet/projet string/obj/Debug/net7.0/projet string.dll
+/home/wesley/Desktop/projet/projet string/obj/Debug/net7.0/refint/projet string.dll
+/home/wesley/Desktop/projet/projet string/obj/Debug/net7.0/projet string.pdb
+/home/wesley/Desktop/projet/projet string/obj/Debug/net7.0/projet string.genruntimeconfig.cache
+/home/wesley/Desktop/projet/projet string/obj/Debug/net7.0/ref/projet string.dll

@@ -1,0 +1,15 @@
+/home/wesley/Desktop/projet/Live Coding Summarising Text/bin/Debug/net7.0/Live Coding Summarising Text
+/home/wesley/Desktop/projet/Live Coding Summarising Text/bin/Debug/net7.0/Live Coding Summarising Text.deps.json
+/home/wesley/Desktop/projet/Live Coding Summarising Text/bin/Debug/net7.0/Live Coding Summarising Text.runtimeconfig.json
+/home/wesley/Desktop/projet/Live Coding Summarising Text/bin/Debug/net7.0/Live Coding Summarising Text.dll
+/home/wesley/Desktop/projet/Live Coding Summarising Text/bin/Debug/net7.0/Live Coding Summarising Text.pdb
+/home/wesley/Desktop/projet/Live Coding Summarising Text/obj/Debug/net7.0/Live Coding Summarising Text.csproj.AssemblyReference.cache
+/home/wesley/Desktop/projet/Live Coding Summarising Text/obj/Debug/net7.0/Live Coding Summarising Text.GeneratedMSBuildEditorConfig.editorconfig
+/home/wesley/Desktop/projet/Live Coding Summarising Text/obj/Debug/net7.0/Live Coding Summarising Text.AssemblyInfoInputs.cache
+/home/wesley/Desktop/projet/Live Coding Summarising Text/obj/Debug/net7.0/Live Coding Summarising Text.AssemblyInfo.cs
+/home/wesley/Desktop/projet/Live Coding Summarising Text/obj/Debug/net7.0/Live Coding Summarising Text.csproj.CoreCompileInputs.cache
+/home/wesley/Desktop/projet/Live Coding Summarising Text/obj/Debug/net7.0/Live Coding Summarising Text.dll
+/home/wesley/Desktop/projet/Live Coding Summarising Text/obj/Debug/net7.0/refint/Live Coding Summarising Text.dll
+/home/wesley/Desktop/projet/Live Coding Summarising Text/obj/Debug/net7.0/Live Coding Summarising Text.pdb
+/home/wesley/Desktop/projet/Live Coding Summarising Text/obj/Debug/net7.0/Live Coding Summarising Text.genruntimeconfig.cache
+/home/wesley/Desktop/projet/Live Coding Summarising Text/obj/Debug/net7.0/ref/Live Coding Summarising Text.dll

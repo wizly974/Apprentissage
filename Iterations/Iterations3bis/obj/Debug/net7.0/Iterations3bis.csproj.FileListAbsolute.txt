@@ -1,0 +1,15 @@
+/home/wesley/Desktop/projet/Iterations3bis/bin/Debug/net7.0/Iterations3bis
+/home/wesley/Desktop/projet/Iterations3bis/bin/Debug/net7.0/Iterations3bis.deps.json
+/home/wesley/Desktop/projet/Iterations3bis/bin/Debug/net7.0/Iterations3bis.runtimeconfig.json
+/home/wesley/Desktop/projet/Iterations3bis/bin/Debug/net7.0/Iterations3bis.dll
+/home/wesley/Desktop/projet/Iterations3bis/bin/Debug/net7.0/Iterations3bis.pdb
+/home/wesley/Desktop/projet/Iterations3bis/obj/Debug/net7.0/Iterations3bis.csproj.AssemblyReference.cache
+/home/wesley/Desktop/projet/Iterations3bis/obj/Debug/net7.0/Iterations3bis.GeneratedMSBuildEditorConfig.editorconfig
+/home/wesley/Desktop/projet/Iterations3bis/obj/Debug/net7.0/Iterations3bis.AssemblyInfoInputs.cache
+/home/wesley/Desktop/projet/Iterations3bis/obj/Debug/net7.0/Iterations3bis.AssemblyInfo.cs
+/home/wesley/Desktop/projet/Iterations3bis/obj/Debug/net7.0/Iterations3bis.csproj.CoreCompileInputs.cache
+/home/wesley/Desktop/projet/Iterations3bis/obj/Debug/net7.0/Iterations3bis.dll
+/home/wesley/Desktop/projet/Iterations3bis/obj/Debug/net7.0/refint/Iterations3bis.dll
+/home/wesley/Desktop/projet/Iterations3bis/obj/Debug/net7.0/Iterations3bis.pdb
+/home/wesley/Desktop/projet/Iterations3bis/obj/Debug/net7.0/Iterations3bis.genruntimeconfig.cache
+/home/wesley/Desktop/projet/Iterations3bis/obj/Debug/net7.0/ref/Iterations3bis.dll

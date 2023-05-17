@@ -1,0 +1,15 @@
+/home/wesley/Desktop/projet/Exercice/Exercice13bis/obj/Debug/net7.0/Exercice13bis.csproj.AssemblyReference.cache
+/home/wesley/Desktop/projet/Exercice/Exercice13bis/obj/Debug/net7.0/Exercice13bis.GeneratedMSBuildEditorConfig.editorconfig
+/home/wesley/Desktop/projet/Exercice/Exercice13bis/obj/Debug/net7.0/Exercice13bis.AssemblyInfoInputs.cache
+/home/wesley/Desktop/projet/Exercice/Exercice13bis/obj/Debug/net7.0/Exercice13bis.AssemblyInfo.cs
+/home/wesley/Desktop/projet/Exercice/Exercice13bis/obj/Debug/net7.0/Exercice13bis.csproj.CoreCompileInputs.cache
+/home/wesley/Desktop/projet/Exercice/Exercice13bis/bin/Debug/net7.0/Exercice13bis
+/home/wesley/Desktop/projet/Exercice/Exercice13bis/bin/Debug/net7.0/Exercice13bis.deps.json
+/home/wesley/Desktop/projet/Exercice/Exercice13bis/bin/Debug/net7.0/Exercice13bis.runtimeconfig.json
+/home/wesley/Desktop/projet/Exercice/Exercice13bis/bin/Debug/net7.0/Exercice13bis.dll
+/home/wesley/Desktop/projet/Exercice/Exercice13bis/bin/Debug/net7.0/Exercice13bis.pdb
+/home/wesley/Desktop/projet/Exercice/Exercice13bis/obj/Debug/net7.0/Exercice13bis.dll
+/home/wesley/Desktop/projet/Exercice/Exercice13bis/obj/Debug/net7.0/refint/Exercice13bis.dll
+/home/wesley/Desktop/projet/Exercice/Exercice13bis/obj/Debug/net7.0/Exercice13bis.pdb
+/home/wesley/Desktop/projet/Exercice/Exercice13bis/obj/Debug/net7.0/Exercice13bis.genruntimeconfig.cache
+/home/wesley/Desktop/projet/Exercice/Exercice13bis/obj/Debug/net7.0/ref/Exercice13bis.dll

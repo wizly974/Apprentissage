@@ -1,0 +1,15 @@
+/home/wesley/Desktop/projet/Exercice4/obj/Debug/net7.0/Exercice4.csproj.AssemblyReference.cache
+/home/wesley/Desktop/projet/Exercice4/obj/Debug/net7.0/Exercice4.GeneratedMSBuildEditorConfig.editorconfig
+/home/wesley/Desktop/projet/Exercice4/obj/Debug/net7.0/Exercice4.AssemblyInfoInputs.cache
+/home/wesley/Desktop/projet/Exercice4/obj/Debug/net7.0/Exercice4.AssemblyInfo.cs
+/home/wesley/Desktop/projet/Exercice4/obj/Debug/net7.0/Exercice4.csproj.CoreCompileInputs.cache
+/home/wesley/Desktop/projet/Exercice4/bin/Debug/net7.0/Exercice4
+/home/wesley/Desktop/projet/Exercice4/bin/Debug/net7.0/Exercice4.deps.json
+/home/wesley/Desktop/projet/Exercice4/bin/Debug/net7.0/Exercice4.runtimeconfig.json
+/home/wesley/Desktop/projet/Exercice4/bin/Debug/net7.0/Exercice4.dll
+/home/wesley/Desktop/projet/Exercice4/bin/Debug/net7.0/Exercice4.pdb
+/home/wesley/Desktop/projet/Exercice4/obj/Debug/net7.0/Exercice4.dll
+/home/wesley/Desktop/projet/Exercice4/obj/Debug/net7.0/refint/Exercice4.dll
+/home/wesley/Desktop/projet/Exercice4/obj/Debug/net7.0/Exercice4.pdb
+/home/wesley/Desktop/projet/Exercice4/obj/Debug/net7.0/Exercice4.genruntimeconfig.cache
+/home/wesley/Desktop/projet/Exercice4/obj/Debug/net7.0/ref/Exercice4.dll

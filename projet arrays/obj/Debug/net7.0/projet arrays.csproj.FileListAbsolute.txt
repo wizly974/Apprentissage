@@ -1,0 +1,15 @@
+/home/wesley/Desktop/projet/projet arrays/obj/Debug/net7.0/projet arrays.csproj.AssemblyReference.cache
+/home/wesley/Desktop/projet/projet arrays/obj/Debug/net7.0/projet arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/wesley/Desktop/projet/projet arrays/obj/Debug/net7.0/projet arrays.AssemblyInfoInputs.cache
+/home/wesley/Desktop/projet/projet arrays/obj/Debug/net7.0/projet arrays.AssemblyInfo.cs
+/home/wesley/Desktop/projet/projet arrays/obj/Debug/net7.0/projet arrays.csproj.CoreCompileInputs.cache
+/home/wesley/Desktop/projet/projet arrays/bin/Debug/net7.0/projet arrays
+/home/wesley/Desktop/projet/projet arrays/bin/Debug/net7.0/projet arrays.deps.json
+/home/wesley/Desktop/projet/projet arrays/bin/Debug/net7.0/projet arrays.runtimeconfig.json
+/home/wesley/Desktop/projet/projet arrays/bin/Debug/net7.0/projet arrays.dll
+/home/wesley/Desktop/projet/projet arrays/bin/Debug/net7.0/projet arrays.pdb
+/home/wesley/Desktop/projet/projet arrays/obj/Debug/net7.0/projet arrays.dll
+/home/wesley/Desktop/projet/projet arrays/obj/Debug/net7.0/refint/projet arrays.dll
+/home/wesley/Desktop/projet/projet arrays/obj/Debug/net7.0/projet arrays.pdb
+/home/wesley/Desktop/projet/projet arrays/obj/Debug/net7.0/projet arrays.genruntimeconfig.cache
+/home/wesley/Desktop/projet/projet arrays/obj/Debug/net7.0/ref/projet arrays.dll

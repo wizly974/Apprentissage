@@ -1,0 +1,15 @@
+/home/wesley/Desktop/projet/RandomClass1ter/bin/Debug/net7.0/RandomClass1ter
+/home/wesley/Desktop/projet/RandomClass1ter/bin/Debug/net7.0/RandomClass1ter.deps.json
+/home/wesley/Desktop/projet/RandomClass1ter/bin/Debug/net7.0/RandomClass1ter.runtimeconfig.json
+/home/wesley/Desktop/projet/RandomClass1ter/bin/Debug/net7.0/RandomClass1ter.dll
+/home/wesley/Desktop/projet/RandomClass1ter/bin/Debug/net7.0/RandomClass1ter.pdb
+/home/wesley/Desktop/projet/RandomClass1ter/obj/Debug/net7.0/RandomClass1ter.csproj.AssemblyReference.cache
+/home/wesley/Desktop/projet/RandomClass1ter/obj/Debug/net7.0/RandomClass1ter.GeneratedMSBuildEditorConfig.editorconfig
+/home/wesley/Desktop/projet/RandomClass1ter/obj/Debug/net7.0/RandomClass1ter.AssemblyInfoInputs.cache
+/home/wesley/Desktop/projet/RandomClass1ter/obj/Debug/net7.0/RandomClass1ter.AssemblyInfo.cs
+/home/wesley/Desktop/projet/RandomClass1ter/obj/Debug/net7.0/RandomClass1ter.csproj.CoreCompileInputs.cache
+/home/wesley/Desktop/projet/RandomClass1ter/obj/Debug/net7.0/RandomClass1ter.dll
+/home/wesley/Desktop/projet/RandomClass1ter/obj/Debug/net7.0/refint/RandomClass1ter.dll
+/home/wesley/Desktop/projet/RandomClass1ter/obj/Debug/net7.0/RandomClass1ter.pdb
+/home/wesley/Desktop/projet/RandomClass1ter/obj/Debug/net7.0/RandomClass1ter.genruntimeconfig.cache
+/home/wesley/Desktop/projet/RandomClass1ter/obj/Debug/net7.0/ref/RandomClass1ter.dll

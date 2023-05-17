@@ -1,0 +1,15 @@
+/home/wesley/Desktop/projet/Operators/bin/Debug/net7.0/Operators
+/home/wesley/Desktop/projet/Operators/bin/Debug/net7.0/Operators.deps.json
+/home/wesley/Desktop/projet/Operators/bin/Debug/net7.0/Operators.runtimeconfig.json
+/home/wesley/Desktop/projet/Operators/bin/Debug/net7.0/Operators.dll
+/home/wesley/Desktop/projet/Operators/bin/Debug/net7.0/Operators.pdb
+/home/wesley/Desktop/projet/Operators/obj/Debug/net7.0/Operators.csproj.AssemblyReference.cache
+/home/wesley/Desktop/projet/Operators/obj/Debug/net7.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/home/wesley/Desktop/projet/Operators/obj/Debug/net7.0/Operators.AssemblyInfoInputs.cache
+/home/wesley/Desktop/projet/Operators/obj/Debug/net7.0/Operators.AssemblyInfo.cs
+/home/wesley/Desktop/projet/Operators/obj/Debug/net7.0/Operators.csproj.CoreCompileInputs.cache
+/home/wesley/Desktop/projet/Operators/obj/Debug/net7.0/Operators.dll
+/home/wesley/Desktop/projet/Operators/obj/Debug/net7.0/refint/Operators.dll
+/home/wesley/Desktop/projet/Operators/obj/Debug/net7.0/Operators.pdb
+/home/wesley/Desktop/projet/Operators/obj/Debug/net7.0/Operators.genruntimeconfig.cache
+/home/wesley/Desktop/projet/Operators/obj/Debug/net7.0/ref/Operators.dll

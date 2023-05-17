@@ -1,0 +1,15 @@
+/home/wesley/Desktop/projet/TypeConversion1/obj/Debug/net7.0/TypeConversion1.csproj.AssemblyReference.cache
+/home/wesley/Desktop/projet/TypeConversion1/obj/Debug/net7.0/TypeConversion1.GeneratedMSBuildEditorConfig.editorconfig
+/home/wesley/Desktop/projet/TypeConversion1/obj/Debug/net7.0/TypeConversion1.AssemblyInfoInputs.cache
+/home/wesley/Desktop/projet/TypeConversion1/obj/Debug/net7.0/TypeConversion1.AssemblyInfo.cs
+/home/wesley/Desktop/projet/TypeConversion1/obj/Debug/net7.0/TypeConversion1.csproj.CoreCompileInputs.cache
+/home/wesley/Desktop/projet/TypeConversion1/bin/Debug/net7.0/TypeConversion1
+/home/wesley/Desktop/projet/TypeConversion1/bin/Debug/net7.0/TypeConversion1.deps.json
+/home/wesley/Desktop/projet/TypeConversion1/bin/Debug/net7.0/TypeConversion1.runtimeconfig.json
+/home/wesley/Desktop/projet/TypeConversion1/bin/Debug/net7.0/TypeConversion1.dll
+/home/wesley/Desktop/projet/TypeConversion1/bin/Debug/net7.0/TypeConversion1.pdb
+/home/wesley/Desktop/projet/TypeConversion1/obj/Debug/net7.0/TypeConversion1.dll
+/home/wesley/Desktop/projet/TypeConversion1/obj/Debug/net7.0/refint/TypeConversion1.dll
+/home/wesley/Desktop/projet/TypeConversion1/obj/Debug/net7.0/TypeConversion1.pdb
+/home/wesley/Desktop/projet/TypeConversion1/obj/Debug/net7.0/TypeConversion1.genruntimeconfig.cache
+/home/wesley/Desktop/projet/TypeConversion1/obj/Debug/net7.0/ref/TypeConversion1.dll

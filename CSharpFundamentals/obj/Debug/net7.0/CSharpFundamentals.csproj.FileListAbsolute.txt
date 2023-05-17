@@ -1,0 +1,15 @@
+/home/wesley/Desktop/projet/CSharpFundamentals/obj/Debug/net7.0/CSharpFundamentals.csproj.AssemblyReference.cache
+/home/wesley/Desktop/projet/CSharpFundamentals/obj/Debug/net7.0/CSharpFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+/home/wesley/Desktop/projet/CSharpFundamentals/obj/Debug/net7.0/CSharpFundamentals.AssemblyInfoInputs.cache
+/home/wesley/Desktop/projet/CSharpFundamentals/obj/Debug/net7.0/CSharpFundamentals.AssemblyInfo.cs
+/home/wesley/Desktop/projet/CSharpFundamentals/obj/Debug/net7.0/CSharpFundamentals.csproj.CoreCompileInputs.cache
+/home/wesley/Desktop/projet/CSharpFundamentals/bin/Debug/net7.0/CSharpFundamentals
+/home/wesley/Desktop/projet/CSharpFundamentals/bin/Debug/net7.0/CSharpFundamentals.deps.json
+/home/wesley/Desktop/projet/CSharpFundamentals/bin/Debug/net7.0/CSharpFundamentals.runtimeconfig.json
+/home/wesley/Desktop/projet/CSharpFundamentals/bin/Debug/net7.0/CSharpFundamentals.dll
+/home/wesley/Desktop/projet/CSharpFundamentals/bin/Debug/net7.0/CSharpFundamentals.pdb
+/home/wesley/Desktop/projet/CSharpFundamentals/obj/Debug/net7.0/CSharpFundamentals.dll
+/home/wesley/Desktop/projet/CSharpFundamentals/obj/Debug/net7.0/refint/CSharpFundamentals.dll
+/home/wesley/Desktop/projet/CSharpFundamentals/obj/Debug/net7.0/CSharpFundamentals.pdb
+/home/wesley/Desktop/projet/CSharpFundamentals/obj/Debug/net7.0/CSharpFundamentals.genruntimeconfig.cache
+/home/wesley/Desktop/projet/CSharpFundamentals/obj/Debug/net7.0/ref/CSharpFundamentals.dll

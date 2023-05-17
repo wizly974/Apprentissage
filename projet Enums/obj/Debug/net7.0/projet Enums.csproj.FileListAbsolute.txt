@@ -1,0 +1,15 @@
+/home/wesley/Desktop/projet/projet Enums/bin/Debug/net7.0/projet Enums
+/home/wesley/Desktop/projet/projet Enums/bin/Debug/net7.0/projet Enums.deps.json
+/home/wesley/Desktop/projet/projet Enums/bin/Debug/net7.0/projet Enums.runtimeconfig.json
+/home/wesley/Desktop/projet/projet Enums/bin/Debug/net7.0/projet Enums.dll
+/home/wesley/Desktop/projet/projet Enums/bin/Debug/net7.0/projet Enums.pdb
+/home/wesley/Desktop/projet/projet Enums/obj/Debug/net7.0/projet Enums.csproj.AssemblyReference.cache
+/home/wesley/Desktop/projet/projet Enums/obj/Debug/net7.0/projet Enums.GeneratedMSBuildEditorConfig.editorconfig
+/home/wesley/Desktop/projet/projet Enums/obj/Debug/net7.0/projet Enums.AssemblyInfoInputs.cache
+/home/wesley/Desktop/projet/projet Enums/obj/Debug/net7.0/projet Enums.AssemblyInfo.cs
+/home/wesley/Desktop/projet/projet Enums/obj/Debug/net7.0/projet Enums.csproj.CoreCompileInputs.cache
+/home/wesley/Desktop/projet/projet Enums/obj/Debug/net7.0/projet Enums.dll
+/home/wesley/Desktop/projet/projet Enums/obj/Debug/net7.0/refint/projet Enums.dll
+/home/wesley/Desktop/projet/projet Enums/obj/Debug/net7.0/projet Enums.pdb
+/home/wesley/Desktop/projet/projet Enums/obj/Debug/net7.0/projet Enums.genruntimeconfig.cache
+/home/wesley/Desktop/projet/projet Enums/obj/Debug/net7.0/ref/projet Enums.dll

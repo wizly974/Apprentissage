@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Live Coding Summarising Text/1.0.0": {
+        "runtime": {
+          "Live Coding Summarising Text.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Live Coding Summarising Text/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

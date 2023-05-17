@@ -1,0 +1,15 @@
+/home/wesley/Desktop/projet/Conditionals V3/obj/Debug/net7.0/Conditionals V3.csproj.AssemblyReference.cache
+/home/wesley/Desktop/projet/Conditionals V3/obj/Debug/net7.0/Conditionals V3.GeneratedMSBuildEditorConfig.editorconfig
+/home/wesley/Desktop/projet/Conditionals V3/obj/Debug/net7.0/Conditionals V3.AssemblyInfoInputs.cache
+/home/wesley/Desktop/projet/Conditionals V3/obj/Debug/net7.0/Conditionals V3.AssemblyInfo.cs
+/home/wesley/Desktop/projet/Conditionals V3/obj/Debug/net7.0/Conditionals V3.csproj.CoreCompileInputs.cache
+/home/wesley/Desktop/projet/Conditionals V3/bin/Debug/net7.0/Conditionals V3
+/home/wesley/Desktop/projet/Conditionals V3/bin/Debug/net7.0/Conditionals V3.deps.json
+/home/wesley/Desktop/projet/Conditionals V3/bin/Debug/net7.0/Conditionals V3.runtimeconfig.json
+/home/wesley/Desktop/projet/Conditionals V3/bin/Debug/net7.0/Conditionals V3.dll
+/home/wesley/Desktop/projet/Conditionals V3/bin/Debug/net7.0/Conditionals V3.pdb
+/home/wesley/Desktop/projet/Conditionals V3/obj/Debug/net7.0/Conditionals V3.dll
+/home/wesley/Desktop/projet/Conditionals V3/obj/Debug/net7.0/refint/Conditionals V3.dll
+/home/wesley/Desktop/projet/Conditionals V3/obj/Debug/net7.0/Conditionals V3.pdb
+/home/wesley/Desktop/projet/Conditionals V3/obj/Debug/net7.0/Conditionals V3.genruntimeconfig.cache
+/home/wesley/Desktop/projet/Conditionals V3/obj/Debug/net7.0/ref/Conditionals V3.dll

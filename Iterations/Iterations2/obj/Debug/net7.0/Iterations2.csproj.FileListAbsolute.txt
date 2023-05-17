@@ -1,0 +1,15 @@
+/home/wesley/Desktop/projet/Iterations2/obj/Debug/net7.0/Iterations2.csproj.AssemblyReference.cache
+/home/wesley/Desktop/projet/Iterations2/obj/Debug/net7.0/Iterations2.GeneratedMSBuildEditorConfig.editorconfig
+/home/wesley/Desktop/projet/Iterations2/obj/Debug/net7.0/Iterations2.AssemblyInfoInputs.cache
+/home/wesley/Desktop/projet/Iterations2/obj/Debug/net7.0/Iterations2.AssemblyInfo.cs
+/home/wesley/Desktop/projet/Iterations2/obj/Debug/net7.0/Iterations2.csproj.CoreCompileInputs.cache
+/home/wesley/Desktop/projet/Iterations2/bin/Debug/net7.0/Iterations2
+/home/wesley/Desktop/projet/Iterations2/bin/Debug/net7.0/Iterations2.deps.json
+/home/wesley/Desktop/projet/Iterations2/bin/Debug/net7.0/Iterations2.runtimeconfig.json
+/home/wesley/Desktop/projet/Iterations2/bin/Debug/net7.0/Iterations2.dll
+/home/wesley/Desktop/projet/Iterations2/bin/Debug/net7.0/Iterations2.pdb
+/home/wesley/Desktop/projet/Iterations2/obj/Debug/net7.0/Iterations2.dll
+/home/wesley/Desktop/projet/Iterations2/obj/Debug/net7.0/refint/Iterations2.dll
+/home/wesley/Desktop/projet/Iterations2/obj/Debug/net7.0/Iterations2.pdb
+/home/wesley/Desktop/projet/Iterations2/obj/Debug/net7.0/Iterations2.genruntimeconfig.cache
+/home/wesley/Desktop/projet/Iterations2/obj/Debug/net7.0/ref/Iterations2.dll

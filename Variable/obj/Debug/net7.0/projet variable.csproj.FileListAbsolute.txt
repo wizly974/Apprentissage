@@ -1,0 +1,30 @@
+/home/wesley/Desktop/projet/projet variable/bin/Debug/net7.0/projet variable
+/home/wesley/Desktop/projet/projet variable/bin/Debug/net7.0/projet variable.deps.json
+/home/wesley/Desktop/projet/projet variable/bin/Debug/net7.0/projet variable.runtimeconfig.json
+/home/wesley/Desktop/projet/projet variable/bin/Debug/net7.0/projet variable.dll
+/home/wesley/Desktop/projet/projet variable/bin/Debug/net7.0/projet variable.pdb
+/home/wesley/Desktop/projet/projet variable/obj/Debug/net7.0/projet variable.csproj.AssemblyReference.cache
+/home/wesley/Desktop/projet/projet variable/obj/Debug/net7.0/projet variable.GeneratedMSBuildEditorConfig.editorconfig
+/home/wesley/Desktop/projet/projet variable/obj/Debug/net7.0/projet variable.AssemblyInfoInputs.cache
+/home/wesley/Desktop/projet/projet variable/obj/Debug/net7.0/projet variable.AssemblyInfo.cs
+/home/wesley/Desktop/projet/projet variable/obj/Debug/net7.0/projet variable.csproj.CoreCompileInputs.cache
+/home/wesley/Desktop/projet/projet variable/obj/Debug/net7.0/projet variable.dll
+/home/wesley/Desktop/projet/projet variable/obj/Debug/net7.0/refint/projet variable.dll
+/home/wesley/Desktop/projet/projet variable/obj/Debug/net7.0/projet variable.pdb
+/home/wesley/Desktop/projet/projet variable/obj/Debug/net7.0/projet variable.genruntimeconfig.cache
+/home/wesley/Desktop/projet/projet variable/obj/Debug/net7.0/ref/projet variable.dll
+/home/wesley/Desktop/projet/Variable/obj/Debug/net7.0/projet variable.csproj.AssemblyReference.cache
+/home/wesley/Desktop/projet/Variable/obj/Debug/net7.0/projet variable.GeneratedMSBuildEditorConfig.editorconfig
+/home/wesley/Desktop/projet/Variable/obj/Debug/net7.0/projet variable.AssemblyInfoInputs.cache
+/home/wesley/Desktop/projet/Variable/obj/Debug/net7.0/projet variable.AssemblyInfo.cs
+/home/wesley/Desktop/projet/Variable/obj/Debug/net7.0/projet variable.csproj.CoreCompileInputs.cache
+/home/wesley/Desktop/projet/Variable/obj/Debug/net7.0/projet variable.dll
+/home/wesley/Desktop/projet/Variable/obj/Debug/net7.0/refint/projet variable.dll
+/home/wesley/Desktop/projet/Variable/obj/Debug/net7.0/projet variable.pdb
+/home/wesley/Desktop/projet/Variable/bin/Debug/net7.0/projet variable
+/home/wesley/Desktop/projet/Variable/bin/Debug/net7.0/projet variable.deps.json
+/home/wesley/Desktop/projet/Variable/bin/Debug/net7.0/projet variable.runtimeconfig.json
+/home/wesley/Desktop/projet/Variable/bin/Debug/net7.0/projet variable.dll
+/home/wesley/Desktop/projet/Variable/bin/Debug/net7.0/projet variable.pdb
+/home/wesley/Desktop/projet/Variable/obj/Debug/net7.0/projet variable.genruntimeconfig.cache
+/home/wesley/Desktop/projet/Variable/obj/Debug/net7.0/ref/projet variable.dll

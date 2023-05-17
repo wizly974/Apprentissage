@@ -1,0 +1,30 @@
+/home/wesley/Desktop/projet/Conditionals/bin/Debug/net7.0/Conditionals
+/home/wesley/Desktop/projet/Conditionals/bin/Debug/net7.0/Conditionals.deps.json
+/home/wesley/Desktop/projet/Conditionals/bin/Debug/net7.0/Conditionals.runtimeconfig.json
+/home/wesley/Desktop/projet/Conditionals/bin/Debug/net7.0/Conditionals.dll
+/home/wesley/Desktop/projet/Conditionals/bin/Debug/net7.0/Conditionals.pdb
+/home/wesley/Desktop/projet/Conditionals/obj/Debug/net7.0/Conditionals.csproj.AssemblyReference.cache
+/home/wesley/Desktop/projet/Conditionals/obj/Debug/net7.0/Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+/home/wesley/Desktop/projet/Conditionals/obj/Debug/net7.0/Conditionals.AssemblyInfoInputs.cache
+/home/wesley/Desktop/projet/Conditionals/obj/Debug/net7.0/Conditionals.AssemblyInfo.cs
+/home/wesley/Desktop/projet/Conditionals/obj/Debug/net7.0/Conditionals.csproj.CoreCompileInputs.cache
+/home/wesley/Desktop/projet/Conditionals/obj/Debug/net7.0/Conditionals.dll
+/home/wesley/Desktop/projet/Conditionals/obj/Debug/net7.0/refint/Conditionals.dll
+/home/wesley/Desktop/projet/Conditionals/obj/Debug/net7.0/Conditionals.pdb
+/home/wesley/Desktop/projet/Conditionals/obj/Debug/net7.0/Conditionals.genruntimeconfig.cache
+/home/wesley/Desktop/projet/Conditionals/obj/Debug/net7.0/ref/Conditionals.dll
+/home/wesley/Desktop/project/conditionals/Conditionals V1/bin/Debug/net7.0/Conditionals
+/home/wesley/Desktop/project/conditionals/Conditionals V1/bin/Debug/net7.0/Conditionals.deps.json
+/home/wesley/Desktop/project/conditionals/Conditionals V1/bin/Debug/net7.0/Conditionals.runtimeconfig.json
+/home/wesley/Desktop/project/conditionals/Conditionals V1/bin/Debug/net7.0/Conditionals.dll
+/home/wesley/Desktop/project/conditionals/Conditionals V1/bin/Debug/net7.0/Conditionals.pdb
+/home/wesley/Desktop/project/conditionals/Conditionals V1/obj/Debug/net7.0/Conditionals.csproj.AssemblyReference.cache
+/home/wesley/Desktop/project/conditionals/Conditionals V1/obj/Debug/net7.0/Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+/home/wesley/Desktop/project/conditionals/Conditionals V1/obj/Debug/net7.0/Conditionals.AssemblyInfoInputs.cache
+/home/wesley/Desktop/project/conditionals/Conditionals V1/obj/Debug/net7.0/Conditionals.AssemblyInfo.cs
+/home/wesley/Desktop/project/conditionals/Conditionals V1/obj/Debug/net7.0/Conditionals.csproj.CoreCompileInputs.cache
+/home/wesley/Desktop/project/conditionals/Conditionals V1/obj/Debug/net7.0/Conditionals.dll
+/home/wesley/Desktop/project/conditionals/Conditionals V1/obj/Debug/net7.0/refint/Conditionals.dll
+/home/wesley/Desktop/project/conditionals/Conditionals V1/obj/Debug/net7.0/Conditionals.pdb
+/home/wesley/Desktop/project/conditionals/Conditionals V1/obj/Debug/net7.0/Conditionals.genruntimeconfig.cache
+/home/wesley/Desktop/project/conditionals/Conditionals V1/obj/Debug/net7.0/ref/Conditionals.dll

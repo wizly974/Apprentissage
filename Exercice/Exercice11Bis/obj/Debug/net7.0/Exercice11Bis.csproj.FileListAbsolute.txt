@@ -1,0 +1,15 @@
+/home/wesley/Desktop/projet/Exercice/Exercice11Bis/bin/Debug/net7.0/Exercice11Bis
+/home/wesley/Desktop/projet/Exercice/Exercice11Bis/bin/Debug/net7.0/Exercice11Bis.deps.json
+/home/wesley/Desktop/projet/Exercice/Exercice11Bis/bin/Debug/net7.0/Exercice11Bis.runtimeconfig.json
+/home/wesley/Desktop/projet/Exercice/Exercice11Bis/bin/Debug/net7.0/Exercice11Bis.dll
+/home/wesley/Desktop/projet/Exercice/Exercice11Bis/bin/Debug/net7.0/Exercice11Bis.pdb
+/home/wesley/Desktop/projet/Exercice/Exercice11Bis/obj/Debug/net7.0/Exercice11Bis.csproj.AssemblyReference.cache
+/home/wesley/Desktop/projet/Exercice/Exercice11Bis/obj/Debug/net7.0/Exercice11Bis.GeneratedMSBuildEditorConfig.editorconfig
+/home/wesley/Desktop/projet/Exercice/Exercice11Bis/obj/Debug/net7.0/Exercice11Bis.AssemblyInfoInputs.cache
+/home/wesley/Desktop/projet/Exercice/Exercice11Bis/obj/Debug/net7.0/Exercice11Bis.AssemblyInfo.cs
+/home/wesley/Desktop/projet/Exercice/Exercice11Bis/obj/Debug/net7.0/Exercice11Bis.csproj.CoreCompileInputs.cache
+/home/wesley/Desktop/projet/Exercice/Exercice11Bis/obj/Debug/net7.0/Exercice11Bis.dll
+/home/wesley/Desktop/projet/Exercice/Exercice11Bis/obj/Debug/net7.0/refint/Exercice11Bis.dll
+/home/wesley/Desktop/projet/Exercice/Exercice11Bis/obj/Debug/net7.0/Exercice11Bis.pdb
+/home/wesley/Desktop/projet/Exercice/Exercice11Bis/obj/Debug/net7.0/Exercice11Bis.genruntimeconfig.cache
+/home/wesley/Desktop/projet/Exercice/Exercice11Bis/obj/Debug/net7.0/ref/Exercice11Bis.dll

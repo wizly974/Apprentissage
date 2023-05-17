@@ -1,0 +1,15 @@
+/home/wesley/Desktop/projet/References Types/bin/Debug/net7.0/Value References
+/home/wesley/Desktop/projet/References Types/bin/Debug/net7.0/Value References.deps.json
+/home/wesley/Desktop/projet/References Types/bin/Debug/net7.0/Value References.runtimeconfig.json
+/home/wesley/Desktop/projet/References Types/bin/Debug/net7.0/Value References.dll
+/home/wesley/Desktop/projet/References Types/bin/Debug/net7.0/Value References.pdb
+/home/wesley/Desktop/projet/References Types/obj/Debug/net7.0/Value References.csproj.AssemblyReference.cache
+/home/wesley/Desktop/projet/References Types/obj/Debug/net7.0/Value References.GeneratedMSBuildEditorConfig.editorconfig
+/home/wesley/Desktop/projet/References Types/obj/Debug/net7.0/Value References.AssemblyInfoInputs.cache
+/home/wesley/Desktop/projet/References Types/obj/Debug/net7.0/Value References.AssemblyInfo.cs
+/home/wesley/Desktop/projet/References Types/obj/Debug/net7.0/Value References.csproj.CoreCompileInputs.cache
+/home/wesley/Desktop/projet/References Types/obj/Debug/net7.0/Value References.dll
+/home/wesley/Desktop/projet/References Types/obj/Debug/net7.0/refint/Value References.dll
+/home/wesley/Desktop/projet/References Types/obj/Debug/net7.0/Value References.pdb
+/home/wesley/Desktop/projet/References Types/obj/Debug/net7.0/Value References.genruntimeconfig.cache
+/home/wesley/Desktop/projet/References Types/obj/Debug/net7.0/ref/Value References.dll
